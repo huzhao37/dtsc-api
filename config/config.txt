@@ -1,0 +1,6 @@
+[test]
+redis.host=127.0.0.1:26125
+redis.auth=******
+redis.db=0
+redis.maxidle=1
+redis.maxactive=10
